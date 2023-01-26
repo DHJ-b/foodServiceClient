@@ -1,0 +1,4 @@
+body{
+  --main-color: #6aa63b;
+  background-color: var(--main-color);
+}
