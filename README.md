@@ -1,3 +1,3 @@
-[react man](react_20readme.md)
+[react man](react_readme.md)
 
 чтобы создать компонент, нужно написать `node createComponent App/Path/To/Component/ComponentName` в папке `src`
